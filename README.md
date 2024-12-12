@@ -20,20 +20,23 @@ Ensure the following dependencies are installed before running the scraper:
   - `openpyxl`  
 
 ## Setup  
-1. Clone the repository:  
+1. Clone the repository:
+   ```bash 
    git clone https://github.com/GhimirePlan/Nepali_News_WebScraper-Aggregate-Latest-News-from-Kantipur-Annapurna-Post-and-Kathmandu-Post.git
    cd nepali-news-web-scraper
-2. Install the required Python libraries:
+3. Install the required Python libraries:
+   ```bash 
    pip install selenium beautifulsoup4 openpyxl
-3. Download and place the appropriate ChromeDriver in your system.
+5. Download and place the appropriate ChromeDriver in your system.
     Ensure it matches your installed Chrome version.
     Update the driver_path in the script with the correct path to chromedriver.
 ## Usage
 1. Update the url variable with the URL of the news portal you want to scrape.
 2. Configure max_data to limit the number of articles to extract.
 3. Run the script:
+   ```bash 
    python file_name.py
-4. The scraped data will be saved in an Excel file(.xlsl) in the project directory.
+5. The scraped data will be saved in an Excel file(.xlsl) in the project directory.
 
 ## Supported News Portals
   eKantipur
