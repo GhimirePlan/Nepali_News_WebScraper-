@@ -39,10 +39,10 @@ Ensure the following dependencies are installed before running the scraper:
 5. The scraped data will be saved in an Excel file(.xlsl) in the project directory.
 
 ## Supported News Portals
-  eKantipur
-  Annapurna Post
-  Kathmandu Post
-  Nepal Fact Check
+  - eKantipur
+  - Annapurna Post
+  - Kathmandu Post
+  - Nepal Fact Check
   
 ## Keywords
 Nepali news scraper, eKantipur scraper, Annapurna Post data extraction, Kathmandu Post crawler, Nepali journalism analysis, Selenium web scraping, BeautifulSoup scraping
