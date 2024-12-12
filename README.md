@@ -22,7 +22,7 @@ Ensure the following dependencies are installed before running the scraper:
 ## Setup  
 1. Clone the repository:
    ```bash 
-   git clone https://github.com/GhimirePlan/Nepali_News_WebScraper-Aggregate-Latest-News-from-Kantipur-Annapurna-Post-and-Kathmandu-Post.git
+   git clone https://github.com/GhimirePlan/Nepali_News_WebScraper-.git
    cd nepali-news-web-scraper
 3. Install the required Python libraries:
    ```bash 
